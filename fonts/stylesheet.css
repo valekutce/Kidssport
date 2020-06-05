@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Peachy Keen JF';
+    src: url('PeachyKeenJF.eot');
+    src: url('PeachyKeenJF.eot?#iefix') format('embedded-opentype'),
+        url('PeachyKeenJF.woff2') format('woff2'),
+        url('PeachyKeenJF.woff') format('woff'),
+        url('PeachyKeenJF.ttf') format('truetype'),
+        url('PeachyKeenJF.svg#PeachyKeenJF') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
