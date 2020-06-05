@@ -1,0 +1,26 @@
+﻿
+/*для больших экранов*/
+
+@media only screen and (max-width: 1200px){
+
+}
+/*Medium Для средних экранов*/
+
+@media only screen and (max-width: 992px){
+
+}
+
+/*Smal для маленьких экранов*/
+@media only screen and (max-width: 768px){
+
+}
+
+/*Exstra Smal для супер маленьких экранов*/
+@media only screen and (max-width: 480px){
+
+}
+
+/*Для Iphon*/
+@media only screen and (max-width: 320px){
+
+}
